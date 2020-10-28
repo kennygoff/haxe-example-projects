@@ -1,0 +1,11 @@
+{
+  "name": "haxe-example-projects",
+  "private": "true",
+  "description": "Various Haxe example projects to accompany posts and tutorials",
+  "scripts": {},
+  "author": "Kenny Goff",
+  "license": "MIT",
+  "dependencies": {
+    "lix": "^15.9.1"
+  }
+}
